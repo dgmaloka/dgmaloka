@@ -6,7 +6,7 @@ Estudante de programação, aprendendo Java e construindo meus primeiros projeto
 
 - 📚 Estou estudando: Java e lógica de programação
 - 🎯 Meu objetivo: Cursar uma faculdade de Análise e Desenvolvimento de Sistemas e depois migrar para Engenharia de Software.
-- 📍José Gonçalves de Minas/Minas Gerais
+- 📍 José Gonçalves de Minas/Minas Gerais
 
 ## 🛠️ Tecnologias
 
